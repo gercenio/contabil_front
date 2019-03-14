@@ -12,6 +12,7 @@ class HeaderComponent extends Component {
                                 <li><a href="#one">Who we are</a></li>
                                 <li><a href="#two">What we do</a></li>
                                 <li><a href="#three">Get in touch</a></li>
+                                <li><a href="#for">Login</a></li>
                             </ul>
                         </nav>
                     </div>

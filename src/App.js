@@ -4,6 +4,7 @@ import './App.css';
 import HeaderComponent from './components/header/header.component';
 import FooterComponent from './components/footer/footer.component';
 import ContactComponent from './components/contact/contact.component';
+import LoginComponent from './components/login/login.component';
 
 class App extends Component {
   render() {
@@ -106,6 +107,7 @@ class App extends Component {
   </section>
 
           <ContactComponent/>
+          <LoginComponent/>
         </div>
         <FooterComponent/>
       </div>
