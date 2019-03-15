@@ -6,14 +6,14 @@ class ContactComponent extends Component {
         return (        
             <section id="three" class="wrapper style1 fade-up">
             <div class="inner">
-              <h2>Get in touch</h2>
-              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+              <h2>Entre em Contato</h2>
+              <p>Consulte nossa equipe especializada e agende uma Reunião, teremos o prazer de Atende-lo seja em nosso escritório ou na sua empresa, pois temos certeza que agregaremos valor a sua companhia.</p>
               <div class="split style1">
                 <section>
                   <form method="post" action="#">
                     <div class="fields">
                       <div class="field half">
-                        <label for="name">Name</label>
+                        <label for="name">Nome</label>
                         <input type="text" name="name" id="name" />
                       </div>
                       <div class="field half">
@@ -21,30 +21,30 @@ class ContactComponent extends Component {
                         <input type="text" name="email" id="email" />
                       </div>
                       <div class="field">
-                        <label for="message">Message</label>
+                        <label for="message">Mensagem</label>
                         <textarea name="message" id="message" rows="5"></textarea>
                       </div>
                     </div>
                     <ul class="actions">
-                      <li><a href="" class="button submit">Send Message</a></li>
+                      <li><a href="" class="button submit">Enviar Mensagem</a></li>
                     </ul>
                   </form>
                 </section>
                 <section>
                   <ul class="contact">
                     <li>
-                      <h3>Address</h3>
-                      <span>12345 Somewhere Road #654<br />
-                      Nashville, TN 00000-0000<br />
-                      USA</span>
+                      <h3>Endereço</h3>
+                      <span>Avenida Paulista, 807 - 23° Andar<br />
+                      Bela Vista - São Paulo - SP<br />
+                      CEP: 01311-915 Brasil</span>
                     </li>
                     <li>
                       <h3>Email</h3>
-                      <a href="#">user@untitled.tld</a>
+                      <a href="#">contato@safecont.com.br</a>
                     </li>
                     <li>
-                      <h3>Phone</h3>
-                      <span>(000) 000-0000</span>
+                      <h3>Telefone</h3>
+                      <span>(11) 3251-1804</span>
                     </li>
                     <li>
                       <h3>Social</h3>
