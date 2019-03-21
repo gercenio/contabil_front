@@ -18,7 +18,7 @@ class App extends Component {
             <section id="intro" class="wrapper style1 fullscreen fade-up">
             <div class="inner">
             <h1>Contabilidade Easy</h1>
-            <p>A Contabilidadeeasy traz um novo conceito no seguimento de contabilidade ON-LINE, não
+            <p>A Contabilidade Easy traz um novo conceito no seguimento de contabilidade ON-LINE, não
                   apenas de contabilidade geradora de impostos e obrigações, mas também de centro de
                   serviços compartilhados em um “ escritório on line”, com diversas soluções, acesse o nosso
                   portal de serviços:</p>

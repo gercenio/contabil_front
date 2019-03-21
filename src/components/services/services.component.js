@@ -9,7 +9,15 @@ class ServicesComponent extends Component {
       <div class="content">
         <div class="inner">
           <h2>Plano A</h2>
-          <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+          <div>
+            <p>Empresa de Serviços.</p>
+          </div>
+          <div>
+            <p>Simples nacional.</p>
+          </div>
+          <div>
+            <p>Processamento de impostos e obrigações.</p>
+          </div>
           <ul class="actions">
             <li><a href="generic.html" class="button">Learn more</a></li>
           </ul>
@@ -21,7 +29,18 @@ class ServicesComponent extends Component {
       <div class="content">
         <div class="inner">
           <h2>Plano B</h2>
-          <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+          <div>
+            <p>Empresa de Serviços.</p>
+          </div>
+          <div>
+            <p>Simples nacional.</p>
+          </div>
+          <div>
+            <p>Processamento de impostos e obrigações.</p>
+          </div>
+          <div>
+            <p>Pro labore ( 2 sócios) – INSS mensal</p>
+          </div>
           <ul class="actions">
             <li><a href="generic.html" class="button">Learn more</a></li>
           </ul>
@@ -33,7 +52,21 @@ class ServicesComponent extends Component {
       <div class="content">
         <div class="inner">
           <h2>Plano C</h2>
-          <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+          <div>
+            <p>Empresa de Serviços.</p>
+          </div>
+          <div>
+            <p>Simples nacional.</p>
+          </div>
+          <div>
+            <p>Processamento de impostos e obrigações.</p>
+          </div>
+          <div>
+            <p>Pro labore ( 2 sócios) – INSS mensal</p>
+          </div>
+          <div>
+            <p>Certidões Eletronicas Mensais</p>
+          </div>
           <ul class="actions">
             <li><a href="generic.html" class="button">Learn more</a></li>
           </ul>
