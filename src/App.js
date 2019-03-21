@@ -23,7 +23,7 @@ class App extends Component {
                   serviços compartilhados em um “ escritório on line”, com diversas soluções, acesse o nosso
                   portal de serviços:</p>
             <ul class="actions">
-              <li><a href="#one" class="button scrolly">Learn more</a></li>
+              <li><a href="#one" class="button scrolly">Saiba mais</a></li>
             </ul>
             </div>
             </section>

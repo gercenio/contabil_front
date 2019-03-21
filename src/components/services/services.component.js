@@ -19,7 +19,7 @@ class ServicesComponent extends Component {
             <p>Processamento de impostos e obrigações.</p>
           </div>
           <ul class="actions">
-            <li><a href="generic.html" class="button">Learn more</a></li>
+            <li><a href="generic.html" class="button">Saiba mais</a></li>
           </ul>
         </div>
       </div>
@@ -42,7 +42,7 @@ class ServicesComponent extends Component {
             <p>Pro labore ( 2 sócios) – INSS mensal</p>
           </div>
           <ul class="actions">
-            <li><a href="generic.html" class="button">Learn more</a></li>
+            <li><a href="generic.html" class="button">Saiba mais</a></li>
           </ul>
         </div>
       </div>
@@ -68,7 +68,7 @@ class ServicesComponent extends Component {
             <p>Certidões Eletronicas Mensais</p>
           </div>
           <ul class="actions">
-            <li><a href="generic.html" class="button">Learn more</a></li>
+            <li><a href="generic.html" class="button">Saiba mais</a></li>
           </ul>
         </div>
       </div>
