@@ -20,7 +20,7 @@ class App extends Component {
             <h1>Contabilidade Easy</h1>
             <p>A Contabilidade Easy traz um novo conceito no seguimento de contabilidade ON-LINE, não
                   apenas de contabilidade geradora de impostos e obrigações, mas também de centro de
-                  serviços compartilhados em um “ escritório on line”, com diversas soluções, acesse o nosso
+                  serviços compartilhados em um “escritório on line”, com diversas soluções, acesse o nosso
                   portal de serviços:</p>
             <ul class="actions">
               <li><a href="#one" class="button scrolly">Saiba mais</a></li>

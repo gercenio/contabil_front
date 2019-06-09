@@ -6,8 +6,8 @@ class ServicesComponent extends Component {
             <section id="one" class="wrapper style2 spotlights">
     <section>
       <a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
-      <div class="content">
-        <div class="inner">
+      <div class="flex-item">
+        <div class="flex-item">
           <h2>Plano A</h2>
           <div>
             <p>Empresa de Serviços.</p>
@@ -22,9 +22,48 @@ class ServicesComponent extends Component {
             <li><a href="generic.html" class="button">Saiba mais</a></li>
           </ul>
         </div>
+        <div class="flex-item">
+          <h2>Plano B</h2>
+          <div>
+            <p>Empresa de Serviços.</p>
+          </div>
+          <div>
+            <p>Simples nacional.</p>
+          </div>
+          <div>
+            <p>Processamento de impostos e obrigações.</p>
+          </div>
+          <div>
+            <p>Pro labore ( 2 sócios) – INSS mensal</p>
+          </div>
+          <ul class="actions">
+            <li><a href="generic.html" class="button">Saiba mais</a></li>
+          </ul>
+        </div>
+        <div class="flex-item">
+          <h2>Plano C</h2>
+          <div>
+            <p>Empresa de Serviços.</p>
+          </div>
+          <div>
+            <p>Simples nacional.</p>
+          </div>
+          <div>
+            <p>Processamento de impostos e obrigações.</p>
+          </div>
+          <div>
+            <p>Pro labore ( 2 sócios) – INSS mensal</p>
+          </div>
+          <div>
+            <p>Certidões Eletronicas Mensais</p>
+          </div>
+          <ul class="actions">
+            <li><a href="generic.html" class="button">Saiba mais</a></li>
+          </ul>
+        </div>
       </div>
     </section>
-    <section>
+    {/* <section>
       <a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
       <div class="content">
         <div class="inner">
@@ -72,7 +111,7 @@ class ServicesComponent extends Component {
           </ul>
         </div>
       </div>
-    </section>
+    </section> */}
   </section>
         );
     }
